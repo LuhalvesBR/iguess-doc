@@ -9,7 +9,7 @@ About the users leagues.
 ## Tech Stack
 * Node.js v8.x.x // NPM v5.X
 * MongoDB v3.4
-* PostgreSQL 
+* PostgreSQL v9.6
 * Redis v3.2.6
 * React Native
 
