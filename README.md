@@ -6,7 +6,6 @@ Everything that linked with predictions.
 ##### GuessLeague 
 About the users leagues.
 
-
 ## Tech Stack
 * Node.js v8.x.x // NPM v5.X
 * MongoDB v3.4
@@ -34,3 +33,8 @@ Poc
 * To development something to test new things
 * poc_{{HistoryNumber}}_{{TaskNumber}}
 * example: poc_06_02
+
+# Style Guide
+(The project's styleguide rule overwrite the general rule from this styleguide)
+* Use alway 2 spaces. With no tabs or 4 spaces.
+* Use always English name to variables.
