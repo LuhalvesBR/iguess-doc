@@ -13,7 +13,7 @@ About the users leagues.
 * Redis v3.2.6
 * React Native
 
-## Git Partner Name
+## Git Branch Partner Name
 Feature
 * To create some new feature to the Repository
 * feature_{{HistoryNumber}}_{{TaskNumber}}
