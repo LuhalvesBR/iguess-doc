@@ -38,3 +38,5 @@ Poc
 (The project's styleguide rule overwrite the general rule from this styleguide)
 * Use always 2 spaces, without tabs or 4 spaces.
 * Use always English name to variables.
+
+TODO: Check the https://github.com/airbnb/javascript/blob/master/README.md
