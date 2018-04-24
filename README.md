@@ -47,6 +47,8 @@ TODO: Check the https://github.com/airbnb/javascript/blob/master/README.md
 * List all apps -> gcloud app versions list
 * Deploy a version -> gcloud app deploy app.dev.yaml --version 0-0-5 --no-promote --quiet
 * Stop a version -> gcloud app versions stop --service holi 0-0-5  --quiet
+* Delete a version -> gcloud app versions delete --service holi 0-0-5  --quiet
+* Migrate Traffic -> gcloud app services set-traffic personal --splits 0-0-5=1 --quiet
 #### Compute Engine Commands helpers:
 * List instances -> gcloud compute instances list
 * Stop Redis -> gcloud compute instances stop redis-1-vm-1
